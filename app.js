@@ -1,2 +1,2 @@
 var app = "Hello World";
-var controller = "Bitch slap Shawn!";
+var controller = "Another controller";
